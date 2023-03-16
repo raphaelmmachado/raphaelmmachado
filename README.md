@@ -4,7 +4,7 @@ Hi! 👋 I'm Raphael
 Web Developer
 -------------
 
-Brazilian self-taught web developer. I am comfortable using React, as well as HTML, CSS, and JavaScript.
+Brazilian self-taught web developer. I am comfortable using <em>React</em>, as well as <em>HTML</em>,<em>CSS</em> and <em>JavaScript</em>.
 
 <details>
   <summary></summary>
@@ -12,11 +12,14 @@ Brazilian self-taught web developer. I am comfortable using React, as well as HT
 </details>
 <br>
 
-* 🌍  I'm based in Rio de Janeiro,Brazil
-* ✉️  You can contact me at [raphael.mm.91@gmail.com](mailto:raphael.mm.91@gmail.com)
-* 🚀  I'm currently working on [Netflix Clone](http://https://nextflix-rm.vercel.app/)
-* 🧠  I'm learning [Typescript](https://www.typescriptlang.org/)
-
+* 🌍  I'm based in Rio de Janeiro, Brazil
+* 🚀  I'm currently coding [Netflix Clone](http://https://nextflix-rm.vercel.app/)
+* 🧠  I'm learning [Typescript](https://www.typescriptlang.org/)
+* 🥊  FrontendMentor challenger
+* 🥋  Praticing on Codewars
+* ✉️  You can contact me at [raphael.mm.91@gmail.com](mailto:raphael.mm.91@gmail.com)
+  
+  <br>
 ### Skills
 
 <p align="left">
