@@ -15,7 +15,7 @@ Brazilian self-taught web developer. I am comfortable using React, as well as HT
 * 🌍  I'm based in Rio de Janeiro,Brazil
 * ✉️  You can contact me at [raphael.mm.91@gmail.com](mailto:raphael.mm.91@gmail.com)
 * 🚀  I'm currently working on [Netflix Clone](http://https://nextflix-rm.vercel.app/)
-* 🧠  I'm learning Nextjs with Typescript
+* 🧠  I'm learning [Typescript](https://www.typescriptlang.org/)
 
 ### Skills
 
