@@ -34,7 +34,7 @@ Brazilian self-taught web developer. I am comfortable using React, as well as HT
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rm0909&layout=compact&langs_count=10)](https://github.com/rm0909/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmmachado&layout=compact&langs_count=10)](https://github.com/raphaelmmachado/github-readme-stats)
 
 ### Socials
 
