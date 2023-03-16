@@ -1,4 +1,4 @@
-Hi 👋 My name is Raphael Machado
+Hi! 👋 I'm Raphael
 ================================
 
 Web Developer
