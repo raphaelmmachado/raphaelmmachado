@@ -13,7 +13,7 @@ Brazilian self-taught web developer. I am comfortable using <em>React</em>, as w
 <br>
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
-* 🚀  I'm currently coding [Netflix Clone](http://https://nextflix-rm.vercel.app/)
+* 🚀  I finished building a [Netflix Clone](http://https://nextflix-rm.vercel.app/)
 * 🧠  I'm learning [Typescript](https://www.typescriptlang.org/)
 * 🥊  FrontendMentor challenger
 * 🥋  Praticing on Codewars
